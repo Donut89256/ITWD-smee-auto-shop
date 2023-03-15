@@ -4,3 +4,6 @@
     /* option 2: #006ACD; */
     --accent-theme-color: #8FC9FF;
 }
+footer {
+    background-color: var(--primary-theme-color);
+}
